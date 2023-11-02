@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:46:06.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.0.8" etag="GhO88f20SQPoYOqg_XHV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:47:30.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="BaCruyRESoMnFTEunnVv" version="22.0.8" type="github">
   <diagram name="Page-1" id="20m88Gaa22wfF_I-5CyM">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Awz9y_9JwON1PXDZxDII-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="60" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Awz9y_9JwON1PXDZxDII-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="64" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
